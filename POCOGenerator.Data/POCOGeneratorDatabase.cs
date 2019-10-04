@@ -7,7 +7,7 @@
 // Do not make changes directly to this file - edit the template instead.
 //
 // The following connection settings were used to generate this file:
-//     Configuration file:     "POCOGenerator.Data\App.config"
+//     Configuration file:     "POCOGenerator.Intf\App.config"
 //     Connection String Name: "DDDGeneratorDbContext"
 //     Connection String:      "Data Source=LAPTOP-6KCDRIM4\SQLEXPRESS;Initial Catalog=DDDGenerator; User Id=sa; password=**zapped**;;"
 // ------------------------------------------------------------------------------------------------
